@@ -1,0 +1,13 @@
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\bin\Debug\inverterSerial.exe.config
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\bin\Debug\inverterSerial.exe
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\bin\Debug\inverterSerial.pdb
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.csprojAssemblyReference.cache
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.Form1.resources
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.Properties.Resources.resources
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.csproj.GenerateResource.cache
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.csproj.CoreCompileInputs.cache
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.exe
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.pdb
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\bin\Debug\ko\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\PLC\MITSUBISHI\c#\inverterSerial\inverterSerial\obj\Debug\inverterSerial.csproj.CopyComplete
